@@ -4,7 +4,7 @@ Greetings traveler 👋 My name is Alonso Parededs
 Frontend Developer
 ------------------
 
-im a lover of tech, progress and anime
+I'm a lover of tech, progress and anime
 
 *   🌍  I'm based in Venezuela
 *   🖥️  See my portfolio at [link](http://portfolio-jap-code-luzubk0br-japcode.vercel.app)
