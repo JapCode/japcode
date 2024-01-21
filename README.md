@@ -7,7 +7,7 @@ Frontend Developer
 I'm a lover of tech, progress and anime
 
 *   🌍  I'm based in Venezuela
-*   🖥️  See my portfolio at [link](https:japcode.dev)
+*   🖥️  See my portfolio at [link](https://www.japcode.dev)
 *   ✉️  You can contact me at [japcode.info@gmail.com](mailto:japcode.info@gmail.com)
 *   🧠  I'm learning TypeScript, Tailwind
 * 🤝  I'm open to collaborating on projects that are helpful to others.
